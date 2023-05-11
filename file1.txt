@@ -1,1 +1,2 @@
 Hello this is a temporary file, to understand the concept of status and log
+(modification text)
