@@ -1,0 +1,31 @@
+location analytics
+
+catalyst engineering -> name catalyst from router 
+
+1.smart work spaces
+2.open roaming
+-> makes wifi authentcuiton easier 
+3.dashboard 
+-> microsevices aggreagate date 
+
+2001 -> cisco acquired in 2018 -> CISCO DNA spaces -> now called cisco spaces
+
+wifi protocols
+
+kotlin - backend
+
+Kotlin coroutines + vertex
+
+frontend - angular + typescript
+
+graph db - aws neptune + kafka 
+mongo db
+
+deployed in aws -> elastic container service + jenkins (CICD)
+
+heatmap -> react
+
+nginx -> 3500$ per month
+
+
+
